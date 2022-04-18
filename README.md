@@ -1,5 +1,5 @@
 # The Floor Is Lava
-www.patika.net
+www.patika.dev
 
 ## Challenge: Zemin lav kaplı!
         Unity ilkel objelerini ve eklenmiş herhangi bir öğeyi (asset) kullanarak, topun düşmeden veya zemine 

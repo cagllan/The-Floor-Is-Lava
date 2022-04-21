@@ -6,3 +6,6 @@ www.patika.dev
     temas etmeden yuvarlanabileceği bir yol yarat.Top, çizdiğin yolda yuvarlanabilir hale gelene dek sahnendeki
     ilgili elemanlara RigidBody bileşenleri ekle. İyi bir bakış noktası bulmak için Main Camera’yı konumlandır.
     Denemek için sahneni çalıştır ve çizdiğin yolun tamamında top yuvarlanana dek değişiklikler yap.
+
+
+live demo: https://play.unity.com/mg/other/webgl-builds-182760
